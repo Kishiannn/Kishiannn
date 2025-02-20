@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kishiannn
 - 👀 I’m interested in Software Engineer and Game Development
-- 🌱 I’m currently learning Java, HTML, CSS, JavaScript, MySQL
+- 🌱 I’m currently learning Java, HTML, CSS, PHP, MySQL
 - 😄 Pronouns: HE/HEM
 - ⚡ Fun fact: I love to explore and code but lazy sometime HEHE.
 
